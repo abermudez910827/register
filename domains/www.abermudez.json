@@ -3,6 +3,7 @@
         "username": "abermudez910827"
     },
     "records": {
-        "CNAME": "43833e6922f88fb3.vercel-dns-017.com"
+        "CNAME": "43833e6922f88fb3.vercel-dns-017.com",
+        "TXT": "vc-domain-verify=www.abermudez.is-a.dev,1160c61bdae8fc1be83d"
     }
 }
